@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/moturk/static/css/main.f855e6bc.css",
+    "main.js": "/moturk/static/js/main.da21f6b5.js",
+    "static/js/787.908d0e51.chunk.js": "/moturk/static/js/787.908d0e51.chunk.js",
+    "static/media/im1.jpg": "/moturk/static/media/im1.553277d3f9f62be87422.jpg",
+    "index.html": "/moturk/index.html",
+    "main.f855e6bc.css.map": "/moturk/static/css/main.f855e6bc.css.map",
+    "main.da21f6b5.js.map": "/moturk/static/js/main.da21f6b5.js.map",
+    "787.908d0e51.chunk.js.map": "/moturk/static/js/787.908d0e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.da21f6b5.js"
+  ]
+}
